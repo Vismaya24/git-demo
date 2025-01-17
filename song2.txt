@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 song1
 song2
-<<<<<<< HEAD
 song3
 fffff
 hhhhh
-=======
 song3
->>>>>>> feature
-=======
 song1
->>>>>>> feature
